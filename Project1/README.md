@@ -1,4 +1,6 @@
-# Health and Economic Indicators Analysis
+# Health Indicator Analysis: Chile, Costa Rica, and Panama
+
+This project analyzes health indicators across Chile, Costa Rica, and Panama, three Latin American countries recognized for their high levels of human development. The goal is to understand the current state and recent trends in healthcare across these nations.
 
 ## Installations
  - NumPy
@@ -6,15 +8,19 @@
  - Seaborn
  - Matplotlib
  - LinearRegression
+   
+## Project Overview
 
-## Project Motivation
-I wanted to look at 3 Latin American countries with similar Human Development Indexes, and compare their healthcare statistics. This involved analyzing various economic indicators, health outcome indicators, and healthcare quality.
-The data I used is can be found on the WorldBank Databank website [here](https://databank.worldbank.org/source/health-nutrition-and-population-statistics).
-I set out to answer a few key questions
-  - Question 1: How do health indicators compare between Chile, Costa Rica and Panama?
-  - Question 2: What are the growth rates from 2012-2019 for various economic and health outcome indicators for each country?
-  - Question 3: Is there a correlation between economic indicators, health expenditure and health outcomes? If so, what relationships are the strongest?
-  - Question 4: Can we predict future health indicators based on historical data?
+This exploratory data analysis delves into World Bank data to compare key health indicators and identify factors influencing public health outcomes in Chile, Costa Rica, and Panama. By examining economic indicators, healthcare quality, and health outcome metrics, the project seeks to answer the following questions:
+
+*   **Comparative Analysis:** How do key health indicators (e.g., life expectancy, infant mortality) compare across Chile, Costa Rica, and Panama?
+*   **Growth Trends:** What were the growth rates of various economic and health outcome indicators in each country between 2012 and 2019?
+*   **Correlation Analysis:** Are there significant correlations between economic indicators, health expenditure, and health outcomes? If so, which relationships are the most pronounced?
+*   **Predictive Modeling:** Can we develop predictive models to forecast future health indicator values based on historical trends?
+
+## Data Source
+
+The data used in this analysis is publicly available from the World Bank DataBank [here](https://databank.worldbank.org/source/health-nutrition-and-population-statistics).
 
 ## File Description
 An exploratory notebook is provided here to demonstrate my work on the given questions, with markdown cells included to outline the approach and methodology used.
