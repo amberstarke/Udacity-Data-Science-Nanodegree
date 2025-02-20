@@ -26,4 +26,4 @@ The data used in this analysis is publicly available from the World Bank DataBan
 An exploratory notebook is provided here to demonstrate my work on the given questions, with markdown cells included to outline the approach and methodology used.
 
 ## Medium Blog Post
-The link to my blog post is available [here](https://medium.com/@astarke2002/health-indicator-analysis-a-comparative-study-of-chile-costa-rica-and-panama-ca60f958913b)
+The link to my blog post is available [here](https://medium.com/@astarke2002/health-indicator-analysis-a-comparative-study-of-chile-costa-rica-and-panama-ca60f958913b).
