@@ -1,6 +1,6 @@
 # Health Indicator Analysis: Chile, Costa Rica, and Panama
 
-This project analyzes health indicators across Chile, Costa Rica, and Panama, three Latin American countries recognized for their high levels of human development. The goal is to understand the current state and recent trends in healthcare across these nations.
+This project analyzes health indicators across Chile, Costa Rica, and Panama, three countries recognized in Latin America for their high levels of human development (HDI). The goal is to understand the current state and recent trends in healthcare across these nations.
 
 ## Installations
  - NumPy
