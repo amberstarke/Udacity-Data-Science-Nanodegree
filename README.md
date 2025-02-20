@@ -4,7 +4,7 @@ This Github repository contains all projects relevant to my Data Science Nanodeg
 
 ## Project 1: Data Science Blog Post
 
-For this project, I looked at Health Nutrition and Population World Bank data to conduct exploratory data analysis on Chile, Costa Rica and Panama, three Latin American countries with high human development indexes (HDIs).
+This project analyzes health indicators across Chile, Costa Rica, and Panama, three countries recognized in Latin America for their high levels of human development (HDI) using Health Nutrition and Population World Bank data. The goal is to understand the current state and recent trends in healthcare across these nations.
 
 [Link to notebook](https://github.com/amberstarke/Udacity-Data-Science-Nanodegree/blob/main/Project1/Health_Indicator_Analysis_StarkeAmber.ipynb
 )
